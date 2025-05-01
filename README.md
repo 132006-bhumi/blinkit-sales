@@ -11,4 +11,5 @@ This Power BI project presents an interactive dashboard analyzing the sales data
 
 4. To assess item visibility, customer ratings, and the distribution of products by outlet type and size.
 
-5. To enable filtering by outlet location type, size, and item type for deeper insights
+5. To enable filtering by outlet location type, size, and item type for deeper insights.
+# 📌 Findings and Conclusion
