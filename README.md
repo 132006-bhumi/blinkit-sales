@@ -47,5 +47,6 @@ This Power BI project presents an interactive dashboard analyzing the sales data
 
 # Conclusion:
 Sales performance is significantly influenced by outlet type, location tier, and item category. Supermarket Type 1 and high-sized outlets in Tier 3 cities present the most opportunity for revenue growth. A consistent rating across outlet types suggests stable customer satisfaction, while high sales from regular-fat products highlight consumer preference trends.
-
+# 📈 Strategic Insights Summary
+This Power BI dashboard delivers a comprehensive, interactive view of Blinkit's sales performance across product types, outlet categories, and customer ratings. By analyzing trends in outlet sizes, location tiers, and item visibility, the dashboard empowers decision-makers to identify high-performing segments, optimize outlet strategies, and enhance customer experience. It serves as a vital tool for driving data-backed growth and operational efficiency in the fast-paced quick commerce space.
 
